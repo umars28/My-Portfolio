@@ -82,6 +82,12 @@ footer {
   .jumbotron img {
     padding-bottom: 9px;
   }
+
+  .jumbotron p,h3 {
+  color: white;
+  font-size: 18px;
+  padding-top: 4px;
+  }
 }
 
 #icon-image {
